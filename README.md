@@ -1,4 +1,12 @@
+# screenshot
+
+![screenshot/screenshot.png](https://github.com/vikasd01/testRe/blob/main/screenshot/screenshot.png)
+
+![screenshot/screenshot2.png](https://github.com/vikasd01/testRe/blob/main/screenshot/screenshot2.png)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+
 
 # Getting Started
 
